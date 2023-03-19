@@ -15,7 +15,7 @@
     Прикрепите в файл README.md скриншот авторизации в админке
     Приложите в файл README.md текст использованных команд в GitHub
 
-![alt text](https://github.com/LipinRoman/9.2/blob/master/img/11.png)
+![11.png](https://github.com/LipinRoman/9.2/blob/master/img/11.png)
 
 wget https://repo.zabbix.com/zabbix/6.4/ubuntu/pool/main/z/zabbix-release/zabbix-release_6.4-1+ubuntu22.04_all.deb
 sudo apt install /home/user/zabbix-release_6.4-1+ubuntu22.04_all.deb
@@ -47,9 +47,9 @@ sudo systemctl enable zabbix-server zabbix-agent nginx php8.1-fpm
     Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
     Приложите в файл README.md текст использованных команд в GitHub
 
-![alt text](https://github.com/LipinRoman/9.2/blob/master/img/21.png)
-![alt text](https://github.com/LipinRoman/9.2/blob/master/img/22.png)
-![alt text](https://github.com/LipinRoman/9.2/blob/master/img/23.png)
+![21.png](https://github.com/LipinRoman/9.2/blob/master/img/21.png)
+![22.png](https://github.com/LipinRoman/9.2/blob/master/img/22.png)
+![23.png](https://github.com/LipinRoman/9.2/blob/master/img/23.png)
 
 wget https://repo.zabbix.com/zabbix/6.4/ubuntu/pool/main/z/zabbix-release/zabbix-release_6.4-1+ubuntu22.04_all.deb
 sudo apt install /home/user/-i zabbix-release_6.4-1+ubuntu22.04_all.deb
